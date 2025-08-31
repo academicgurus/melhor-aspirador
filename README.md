@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Melhor Aspirador 2025 - Guia Completo 🏠
 
 Este repositório contém um guia completo e comparativo dos melhores aspiradores de 2025, criado como um site GitHub Pages.
@@ -124,3 +125,7 @@ Para dúvidas ou sugestões:
 **Última atualização**: Janeiro 2025
 
 *Este guia é atualizado regularmente com os melhores produtos do mercado.*
+=======
+# melhor-aspirador
+Guia dos melhores aspiradores
+>>>>>>> 18e95649d23b0a0a3c5d12b743a28fe28be7ee24

@@ -169,6 +169,6 @@ O **LEFANT M210P** é uma excelente escolha para quem busca um aspirador robô d
 
 ---
 
-**Próximo**: [Aspirador Robot X](./aspirador-x/) | [Aspirador Sem Fio Y](./aspirador-y/) | [Aspirador Tradicional Z](./aspirador-z/)
+**Próximo**: [Aspirador Robot X](../aspirador-x/) | [Aspirador Sem Fio Y](../aspirador-y/) | [Aspirador Tradicional Z](../aspirador-z/)
 
 *Última atualização: Janeiro 2025*

@@ -17,10 +17,10 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 
 | Modelo | Preço | Potência | Autonomia | Avaliação | Ver Review |
 |--------|-------|----------|-----------|-----------|------------|
-| [LEFANT M210P](./lefant-m210p/) | €89,99 | 2200 Pa | 120 min | ⭐⭐⭐⭐⭐ | [Ver Análise →](./lefant-m210p/) |
-| [Aspirador Robot X](#aspirador-x) | R$ 1.299 | 2500 Pa | 120 min | ⭐⭐⭐⭐⭐ | [Ver Análise →](./aspirador-x/) |
-| [Aspirador Sem Fio Y](#aspirador-y) | R$ 899 | 1500 Pa | 60 min | ⭐⭐⭐⭐ | [Ver Análise →](./aspirador-y/) |
-| [Aspirador Tradicional Z](#aspirador-z) | R$ 599 | 3500 Pa | Ilimitada | ⭐⭐⭐⭐ | [Ver Análise →](./aspirador-z/) |
+| [LEFANT M210P](https://academicgurus.github.io/melhor-aspirador/lefant-m210p/) | €89,99 | 2200 Pa | 120 min | ⭐⭐⭐⭐⭐ | [Ver Análise →](https://academicgurus.github.io/melhor-aspirador/lefant-m210p/) |
+| [Aspirador Robot X](https://academicgurus.github.io/melhor-aspirador/aspirador-x/) | R$ 1.299 | 2500 Pa | 120 min | ⭐⭐⭐⭐⭐ | [Ver Análise →](https://academicgurus.github.io/melhor-aspirador/aspirador-x/) |
+| [Aspirador Sem Fio Y](https://academicgurus.github.io/melhor-aspirador/aspirador-y/) | R$ 899 | 1500 Pa | 60 min | ⭐⭐⭐⭐ | [Ver Análise →](https://academicgurus.github.io/melhor-aspirador/aspirador-y/) |
+| [Aspirador Tradicional Z](https://academicgurus.github.io/melhor-aspirador/aspirador-z/) | R$ 599 | 3500 Pa | Ilimitada | ⭐⭐⭐⭐ | [Ver Análise →](https://academicgurus.github.io/melhor-aspirador/aspirador-z/) |
 
 ## 📋 Tipos de Aspiradores
 
@@ -59,7 +59,7 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 - ✅ **Controle remoto incluído** - Fácil para idosos
 - ✅ **6 modos de limpeza** - Versatilidade total
 
-**[Ver Review Completo →](./lefant-m210p/)**
+**[Ver Review Completo →](https://academicgurus.github.io/melhor-aspirador/lefant-m210p/)**
 
 ### 🔋 Aspirador Vertical (Sem Fio)
 **O que é**: Aspiradores portáteis sem fio, geralmente em formato de bastão.
@@ -74,7 +74,7 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 
 **Ideal para**: Apartamentos pequenos, limpeza rápida, quem valoriza praticidade.
 
-**[Ver Aspirador Sem Fio Y →](./aspirador-y/)**
+**[Ver Aspirador Sem Fio Y →](https://academicgurus.github.io/melhor-aspirador/aspirador-y/)**
 
 ### 🔌 Aspirador de Tambor/Lata
 **O que é**: Aspiradores tradicionais com fio e reservatório separado do motor.
@@ -89,7 +89,7 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 
 **Ideal para**: Casas grandes, limpeza pesada, orçamento limitado.
 
-**[Ver Aspirador Tradicional Z →](./aspirador-z/)**
+**[Ver Aspirador Tradicional Z →](https://academicgurus.github.io/melhor-aspirador/aspirador-z/)**
 
 ### 🖐️ Aspirador de Mão
 **O que é**: Aspiradores pequenos e portáteis para limpeza pontual.
@@ -164,10 +164,10 @@ Todos os produtos recomendados podem ser encontrados nas principais lojas online
 
 Clique nos links abaixo para análises completas de cada modelo:
 
-- [**LEFANT M210P**](./lefant-m210p/) - Melhor custo-benefício em aspiradores robô
-- [**Aspirador Robot X**](./aspirador-x/) - Automação total para sua casa
-- [**Aspirador Sem Fio Y**](./aspirador-y/) - Versatilidade sem limites
-- [**Aspirador Tradicional Z**](./aspirador-z/) - Potência e confiabilidade
+- [**LEFANT M210P**](https://academicgurus.github.io/melhor-aspirador/lefant-m210p/) - Melhor custo-benefício em aspiradores robô
+- [**Aspirador Robot X**](https://academicgurus.github.io/melhor-aspirador/aspirador-x/) - Automação total para sua casa
+- [**Aspirador Sem Fio Y**](https://academicgurus.github.io/melhor-aspirador/aspirador-y/) - Versatilidade sem limites
+- [**Aspirador Tradicional Z**](https://academicgurus.github.io/melhor-aspirador/aspirador-z/) - Potência e confiabilidade
 
 ---
 

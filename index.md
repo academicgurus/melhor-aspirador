@@ -19,8 +19,8 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 |--------|-------|----------|-----------|-----------|------------|
 | [LEFANT M210P](./lefant-m210p/index.md) | €89,99 | 2200 Pa | 120 min | ⭐⭐⭐⭐⭐ | [Ver Análise →](./lefant-m210p/index.md) |
 | [XIAOMI S20](./xiaomi-s20/index.md) | €116,90 | 5000 Pa | 120 min | ⭐⭐⭐⭐⭐ | [Ver Análise →](./xiaomi-s20/index.md) |
-| [Aspirador Robot X](./aspirador-x/index.md) | R$ 1.299 | 2500 Pa | 120 min | ⭐⭐⭐⭐⭐ | [Ver Análise →](./aspirador-x/index.md) |
-| [Aspirador Sem Fio Y](./aspirador-y/index.md) | R$ 899 | 1500 Pa | 60 min | ⭐⭐⭐⭐ | [Ver Análise →](./aspirador-y/index.md) |
+| [iRobot Roomba 505](./irobot-roomba-505/index.md) | €494,83 | 70x | 75 dias | ⭐⭐⭐⭐⭐ | [Ver Análise →](./irobot-roomba-505/index.md) |
+| [Cecotec Conga 999](./cecotec-conga-999/index.md) | €100,64 | 2000 Pa | 120 min | ⭐⭐⭐⭐⭐ | [Ver Análise →](./cecotec-conga-999/index.md) |
 
 ## 📋 Tipos de Aspiradores
 
@@ -61,7 +61,7 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 - ✅ **Controle remoto incluído** - Fácil para idosos
 - ✅ **6 modos de limpeza** - Versatilidade total
 
-**[Ver Review Completo →](./lefant-m210p/index.md)**
+**[Ver Review Completa →](./lefant-m210p/index.md)**
 
 #### 🥈 XIAOMI Robot Vacuum S20
 
@@ -87,7 +87,59 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 - ✅ **Rotas inteligentes** - Zigzag + Y-shaped scrubbing
 - ✅ **Tank duplo** - 400ml pó + 270ml água
 
-**[Ver Review Completo →](./xiaomi-s20/index.md)**
+**[Ver Review Completa →](./xiaomi-s20/index.md)**
+
+#### 🥉 iRobot Roomba Plus 505 Combo
+
+![iRobot Roomba 505 Combo](https://m.media-amazon.com/images/I/71xEHMSV3UL._AC_SL1500_.jpg)
+
+| Especificação | Detalhes |
+|---------------|----------|
+| **Preço** | €494,83 (39% desconto) |
+| **Potência de Sucção** | 70x mais potente |
+| **Autonomia** | 75 dias (AutoWash) |
+| **Capacidade** | Auto-Empty + Mop |
+| **Altura** | 47cm |
+| **Diâmetro** | 34.4cm |
+| **Filtro** | Cartucho |
+| **Controle** | App, Voz |
+| **Navegação** | ClearView Pro LiDAR |
+| **Funcionalidade** | Aspiração + Mopagem + AutoWash |
+
+**Principais Vantagens**:
+- ✅ **AutoWash Base** - 75 dias sem manutenção
+- ✅ **LiDAR Pro** - Mapeamento preciso dia e noite
+- ✅ **AI PrecisionVision** - Detecta obstáculos inteligentemente
+- ✅ **DualClean Mops** - 18% mais cobertura + 2x mais profundo
+- ✅ **Marca Premium** - iRobot é líder mundial
+
+**[Ver Review Completa →](./irobot-roomba-505/index.md)**
+
+#### 🏅 Cecotec Conga 999 Map X-Treme
+
+![Cecotec Conga 999 Map X-Treme](https://m.media-amazon.com/images/I/91aX9IcU1aL._AC_SL1500_.jpg)
+
+| Especificação | Detalhes |
+|---------------|----------|
+| **Preço** | €100,64 |
+| **Potência de Sucção** | 2000 Pa |
+| **Autonomia** | 120 minutos |
+| **Capacidade** | 2 Mops + 2 Escovas |
+| **Altura** | 7.5cm |
+| **Diâmetro** | 31.5cm |
+| **Filtro** | Alta Eficiência |
+| **Controle** | App + Controle Remoto |
+| **Navegação** | iTech SmartGyro |
+| **Funcionalidade** | Aspiração + Mopagem + Esfregação |
+
+**Principais Vantagens**:
+- ✅ **Preço competitivo** - €100,64 com 2 mops incluídos
+- ✅ **Navegação SmartGyro** - Sensores giroscópicos precisos
+- ✅ **Dual Mop System** - 2 mops para limpeza eficiente
+- ✅ **Total Surface** - Retorna à base e continua limpeza
+- ✅ **3 Níveis de Água** - Controle inteligente do fluxo
+
+**[Ver Review Completa →](./cecotec-conga-999/index.md)**
 
 ### 🔋 Aspirador Vertical (Sem Fio)
 **O que é**: Aspiradores portáteis sem fio, geralmente em formato de bastão.
@@ -194,8 +246,8 @@ Clique nos links abaixo para análises completas de cada modelo:
 
 - [**LEFANT M210P**](./lefant-m210p/index.md) - Melhor custo-benefício em aspiradores robô
 - [**XIAOMI S20**](./xiaomi-s20/index.md) - Alta potência + mopagem 2 em 1
-- [**Aspirador Robot X**](./aspirador-x/index.md) - Automação total para sua casa
-- [**Aspirador Sem Fio Y**](./aspirador-y/index.md) - Versatilidade sem limites
+- [**iRobot Roomba 505**](./irobot-roomba-505/index.md) - Premium com AutoWash + LiDAR Pro
+- [**Cecotec Conga 999**](./cecotec-conga-999/index.md) - SmartGyro + Dual Mop System
 
 ---
 

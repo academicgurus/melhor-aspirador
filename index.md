@@ -39,7 +39,7 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 
 #### 🏆 Melhor Aspirador Robô 2025: LEFANT M210P
 
-![LEFANT M210P Robot Vacuum](https://m.media-amazon.com/images/I/71QKQqQqQqL._AC_SL1500_.jpg)
+![Aspirador robo LEFANT M210P](https://m.media-amazon.com/images/I/61fuj+nccVL._AC_SL1500_.jpg)
 
 | Especificação | Detalhes |
 |---------------|----------|
@@ -286,6 +286,110 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 
 **Ideal para**: Limpeza de carros, móveis, escadas, áreas pequenas.
 
+#### 🏆 Cecotec Immortal Extreme
+
+![Cecotec Immortal Extreme Handheld](https://m.media-amazon.com/images/I/61gOFFelIiL._AC_SL1000_.jpg)
+
+| Especificação | Detalhes |
+|---------------|----------|
+| **Preço** | €59,21 |
+| **Potência** | 110W |
+| **Sucção** | 7.5 kPa |
+| **Autonomia** | 25 minutos |
+| **Tecnologia** | Wet & Dry |
+| **Filtro** | Cartucho |
+| **Bateria** | 22.2V Li-Ion |
+| **Capacidade** | 500ml |
+| **Peso** | 1.92kg |
+| **Superfícies** | Casa + Carro |
+
+**Principais Vantagens**:
+- ✅ **Wet & Dry** - Sólidos e líquidos
+- ✅ **22.2V Li-Ion** - Bateria removível
+- ✅ **500ml** - Grande capacidade
+- ✅ **Tecnologia Ciclônica** - Sem sacos
+- ✅ **Acessórios Inclusos** - Casa e carro
+
+**[Ver Review Completa →](./cecotec-immortal-extreme/index.md)**
+
+#### 🥈 CUGEFRE ST-6691 Plus
+
+![CUGEFRE ST-6691 Plus Handheld](https://m.media-amazon.com/images/I/612lBoRHSXL._AC_SL1500_.jpg)
+
+| Especificação | Detalhes |
+|---------------|----------|
+| **Preço** | €39,99 (33% desconto) |
+| **Sucção** | 22,000 Pa |
+| **Tecnologia** | 4 em 1 |
+| **Motor** | Sem escovas |
+| **Velocidades** | 3 níveis |
+| **Filtro** | Cartucho lavável |
+| **Carregamento** | USB-C |
+| **Tempo** | 2 horas |
+| **Acessórios** | 9 boquilhas |
+| **Funcionalidades** | Aspirar, Soprar, Encher, Sugar |
+
+**Principais Vantagens**:
+- ✅ **22,000 Pa** - Sucção ultra potente
+- ✅ **4 em 1** - Aspirar, soprar, encher, sugar
+- ✅ **Motor sem escovas** - 50% mais potente
+- ✅ **Descarga automática** - Um toque
+- ✅ **9 acessórios** - Versatilidade total
+
+**[Ver Review Completa →](./cugefre-st-6691-plus/index.md)**
+
+#### 🥉 SERVOMASTER SM01
+
+![SERVOMASTER SM01 Handheld](https://m.media-amazon.com/images/I/61LR2KD6SHL._AC_SL1500_.jpg)
+
+| Especificação | Detalhes |
+|---------------|----------|
+| **Preço** | €24,39 (29% desconto) |
+| **Sucção** | 9,000 Pa |
+| **Tecnologia** | Sem fio |
+| **Bateria** | 2000mAh x2 |
+| **Autonomia** | 20 minutos |
+| **Filtro** | HEPA lavável |
+| **Capacidade** | 400g |
+| **Carregamento** | 3 horas |
+| **Acessórios** | 2 filtros + 2 boquilhas |
+| **Peso** | 1.26 libras |
+
+**Principais Vantagens**:
+- ✅ **9,000 Pa** - Sucção potente
+- ✅ **Preço baixo** - €24,39 com desconto
+- ✅ **Filtro HEPA** - Lavável e reutilizável
+- ✅ **2 Filtros** - Um extra incluído
+- ✅ **Leve** - Apenas 1.26 libras
+
+**[Ver Review Completa →](./servomaster-sm01/index.md)**
+
+#### 🏅 NVKHG 18,000 Pa
+
+![NVKHG 18,000 Pa Handheld](https://m.media-amazon.com/images/I/61n11nFJZpL._AC_SL1500_.jpg)
+
+| Especificação | Detalhes |
+|---------------|----------|
+| **Preço** | €39,99 |
+| **Sucção** | 18,000 Pa |
+| **Tecnologia** | 4 em 1 |
+| **Motor** | Sem escovas |
+| **Velocidade** | 80,000 RPM |
+| **Filtro** | HEPA lavável |
+| **Voltagem** | 12V |
+| **Potência** | 120W |
+| **Carregamento** | USB-C (2h) |
+| **Funcionalidades** | Aspirar, Soprar, Encher, Sugar |
+
+**Principais Vantagens**:
+- ✅ **18,000 Pa** - Sucção ultra potente
+- ✅ **4 em 1** - Aspirar, soprar, encher, sugar
+- ✅ **Motor sem escovas** - 80,000 RPM
+- ✅ **Filtro HEPA** - Lavável e reutilizável
+- ✅ **USB-C** - Carregamento universal
+
+**[Ver Review Completa →](./nvkhg-18000pa/index.md)**
+
 ### 🏭 Aspirador Industrial (Pó e Líquidos)
 **O que é**: Aspiradores robustos para limpeza pesada e industrial.
 
@@ -354,6 +458,10 @@ Clique nos links abaixo para análises completas de cada modelo:
 - [**Proscenic P15**](./proscenic-p15/index.md) - Sem fio + Anti-emaranhamento
 - [**DREAME H12 Pro FlexReach**](./dreame-h12-pro-flexreach/index.md) - Seco + Húmido + 18,000 Pa
 - [**Taurus HUD**](./taurus-hud/index.md) - 21,000 Pa + Motor Brushless
+- [**Cecotec Immortal Extreme**](./cecotec-immortal-extreme/index.md) - Wet & Dry + 22.2V
+- [**CUGEFRE ST-6691 Plus**](./cugefre-st-6691-plus/index.md) - 22,000 Pa + 4 em 1
+- [**SERVOMASTER SM01**](./servomaster-sm01/index.md) - 9,000 Pa + HEPA
+- [**NVKHG 18,000 Pa**](./nvkhg-18000pa/index.md) - 18,000 Pa + 4 em 1
 
 ---
 

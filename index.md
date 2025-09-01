@@ -63,7 +63,7 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 
 **[Ver Review Completa →](./lefant-m210p/index.md)**
 
-#### 🥈 XIAOMI Robot Vacuum S20
+#### 🥈 Aspirador Robot XIAOMI S20
 
 ![XIAOMI S20 Robot Vacuum](https://m.media-amazon.com/images/I/61ZviZn9JwL._AC_SL1500_.jpg)
 
@@ -154,7 +154,109 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 
 **Ideal para**: Apartamentos pequenos, limpeza rápida, quem valoriza praticidade.
 
-**[Ver Aspirador Sem Fio Y →](./aspirador-y/index.md)**
+#### 🏆 Cecotec ThunderBrush 560
+
+![Cecotec ThunderBrush 560](https://m.media-amazon.com/images/I/515aXBEQMpL._AC_SL1000_.jpg)
+
+| Especificação | Detalhes |
+|---------------|----------|
+| **Preço** | €33,54 (14% desconto) |
+| **Potência** | 600W |
+| **Tecnologia** | Ciclônica sem saco |
+| **Filtro** | HEPA |
+| **Cabo** | 4.5m |
+| **Peso** | 1.9kg |
+| **Funcionalidade** | 2 em 1 (Vertical + Mão) |
+| **Tecnologia** | Twisted 180º + UltraPower |
+| **Posições** | 14 posições telescópicas |
+| **Superfícies** | Pisos duros e macios |
+
+**Principais Vantagens**:
+- ✅ **Preço excepcional** - €33,54 com 14% desconto
+- ✅ **Tecnologia Twisted 180º** - Mobilidade total
+- ✅ **Filtro HEPA** - Retém alérgenos
+- ✅ **Cabo longo** - 4.5m de alcance
+- ✅ **Leve e ergonômico** - Apenas 1.9kg
+
+**[Ver Review Completa →](./cecotec-thunderbrush-560/index.md)**
+
+#### 🥈 Proscenic P15
+
+![Proscenic P15 Cordless Vacuum](https://m.media-amazon.com/images/I/61NyC7tGYCL._AC_SL1500_.jpg)
+
+| Especificação | Detalhes |
+|---------------|----------|
+| **Preço** | €131,73 (17% desconto) |
+| **Potência** | 580W |
+| **Sucção** | 50 kPa |
+| **Autonomia** | 70 minutos |
+| **Capacidade** | 1.2L |
+| **Tecnologia** | Anti-emaranhamento |
+| **Filtro** | HEPA 6 etapas |
+| **Luz** | GREENeye LED |
+| **Bateria** | 8x 2200mAh removível |
+| **Superfícies** | Todos os tipos |
+
+**Principais Vantagens**:
+- ✅ **Sem fio** - Total liberdade de movimento
+- ✅ **Anti-emaranhamento** - Elimina 99% dos emaranhados
+- ✅ **GREENeye LED** - Detecta pó invisível
+- ✅ **Bateria removível** - 70 min de autonomia
+- ✅ **Filtro HEPA 6 etapas** - 99.9% eficiência
+
+**[Ver Review Completa →](./proscenic-p15/index.md)**
+
+#### 🥉 DREAME H12 Pro FlexReach
+
+![DREAME H12 Pro FlexReach](https://m.media-amazon.com/images/I/61GJAqKJH0L._AC_SL1500_.jpg)
+
+| Especificação | Detalhes |
+|---------------|----------|
+| **Preço** | €354,77 (13% desconto) |
+| **Potência** | 400W |
+| **Sucção** | 18,000 Pa |
+| **Autonomia** | 50 minutos |
+| **Capacidade** | 780ml |
+| **Tecnologia** | Seco + Húmido |
+| **Filtro** | HEPA |
+| **Alcance** | 180° plano |
+| **Lavagem** | 90°C automática |
+| **Secagem** | 5 min ar quente |
+
+**Principais Vantagens**:
+- ✅ **Seco + Húmido** - Limpeza completa 2 em 1
+- ✅ **18,000 Pa** - Sucção ultra potente
+- ✅ **Lavagem 90°C** - Autolimpeza automática
+- ✅ **Alcance 180°** - Acesso a espaços estreitos
+- ✅ **Secagem automática** - 5 min ar quente
+
+**[Ver Review Completa →](./dreame-h12-pro-flexreach/index.md)**
+
+#### 🏅 Taurus HUD
+
+![Taurus HUD Vertical Vacuum](https://m.media-amazon.com/images/I/51PtaADqaVL._AC_SL1080_.jpg)
+
+| Especificação | Detalhes |
+|---------------|----------|
+| **Preço** | €119,99 |
+| **Potência** | 400W |
+| **Sucção** | 21,000 Pa |
+| **Autonomia** | 55 minutos |
+| **Tecnologia** | Motor Brushless |
+| **Filtro** | HEPA |
+| **Escovas** | ALL ROAD + FUZZY |
+| **Velocidades** | 2 modos |
+| **Bateria** | 29.6V Li-Ion removível |
+| **Peso** | 2kg |
+
+**Principais Vantagens**:
+- ✅ **21,000 Pa** - Sucção ultra potente
+- ✅ **Motor Brushless** - 90,000 RPM sem escovas
+- ✅ **Dual Brush System** - ALL ROAD + FUZZY
+- ✅ **Leve** - Apenas 2kg
+- ✅ **Bateria Removível** - 29.6V Li-Ion
+
+**[Ver Review Completa →](./taurus-hud/index.md)**
 
 ### 🔌 Aspirador de Tambor/Lata
 **O que é**: Aspiradores tradicionais com fio e reservatório separado do motor.
@@ -248,6 +350,10 @@ Clique nos links abaixo para análises completas de cada modelo:
 - [**XIAOMI S20**](./xiaomi-s20/index.md) - Alta potência + mopagem 2 em 1
 - [**iRobot Roomba 505**](./irobot-roomba-505/index.md) - Premium com AutoWash + LiDAR Pro
 - [**Cecotec Conga 999**](./cecotec-conga-999/index.md) - SmartGyro + Dual Mop System
+- [**Cecotec ThunderBrush 560**](./cecotec-thunderbrush-560/index.md) - Vertical 2 em 1 + HEPA
+- [**Proscenic P15**](./proscenic-p15/index.md) - Sem fio + Anti-emaranhamento
+- [**DREAME H12 Pro FlexReach**](./dreame-h12-pro-flexreach/index.md) - Seco + Húmido + 18,000 Pa
+- [**Taurus HUD**](./taurus-hud/index.md) - 21,000 Pa + Motor Brushless
 
 ---
 

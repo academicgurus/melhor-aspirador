@@ -18,9 +18,9 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 | Modelo | Preço | Potência | Autonomia | Avaliação | Ver Review |
 |--------|-------|----------|-----------|-----------|------------|
 | [LEFANT M210P](./lefant-m210p/index.md) | €89,99 | 2200 Pa | 120 min | ⭐⭐⭐⭐⭐ | [Ver Análise →](./lefant-m210p/index.md) |
+| [XIAOMI S20](./xiaomi-s20/index.md) | €116,90 | 5000 Pa | 120 min | ⭐⭐⭐⭐⭐ | [Ver Análise →](./xiaomi-s20/index.md) |
 | [Aspirador Robot X](./aspirador-x/index.md) | R$ 1.299 | 2500 Pa | 120 min | ⭐⭐⭐⭐⭐ | [Ver Análise →](./aspirador-x/index.md) |
 | [Aspirador Sem Fio Y](./aspirador-y/index.md) | R$ 899 | 1500 Pa | 60 min | ⭐⭐⭐⭐ | [Ver Análise →](./aspirador-y/index.md) |
-| [Aspirador Tradicional Z](./aspirador-z/index.md) | R$ 599 | 3500 Pa | Ilimitada | ⭐⭐⭐⭐ | [Ver Análise →](./aspirador-z/index.md) |
 
 ## 📋 Tipos de Aspiradores
 
@@ -38,6 +38,8 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 **Ideal para**: Casas grandes, famílias ocupadas, quem busca automação total.
 
 #### 🏆 Melhor Aspirador Robô 2025: LEFANT M210P
+
+![LEFANT M210P Robot Vacuum](https://m.media-amazon.com/images/I/71QKQqQqQqL._AC_SL1500_.jpg)
 
 | Especificação | Detalhes |
 |---------------|----------|
@@ -60,6 +62,32 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 - ✅ **6 modos de limpeza** - Versatilidade total
 
 **[Ver Review Completo →](./lefant-m210p/index.md)**
+
+#### 🥈 XIAOMI Robot Vacuum S20
+
+![XIAOMI S20 Robot Vacuum](https://m.media-amazon.com/images/I/61ZviZn9JwL._AC_SL1500_.jpg)
+
+| Especificação | Detalhes |
+|---------------|----------|
+| **Preço** | €116,90 (36% desconto) |
+| **Potência de Sucção** | 5000 Pa |
+| **Autonomia** | 120 minutos |
+| **Capacidade** | 400ml + 270ml água |
+| **Altura** | 9.8cm |
+| **Diâmetro** | 32.5cm |
+| **Filtro** | Lavável |
+| **Controle** | App Mi Home, Botões |
+| **Navegação** | LDS Laser |
+| **Funcionalidade** | Aspiração + Mopagem |
+
+**Principais Vantagens**:
+- ✅ **Alta potência** - 5000 Pa (mais que o dobro do LEFANT)
+- ✅ **2 em 1** - Aspiração + mopagem simultânea
+- ✅ **Navegação LDS** - Mapeamento preciso a laser
+- ✅ **Rotas inteligentes** - Zigzag + Y-shaped scrubbing
+- ✅ **Tank duplo** - 400ml pó + 270ml água
+
+**[Ver Review Completo →](./xiaomi-s20/index.md)**
 
 ### 🔋 Aspirador Vertical (Sem Fio)
 **O que é**: Aspiradores portáteis sem fio, geralmente em formato de bastão.
@@ -165,9 +193,9 @@ Todos os produtos recomendados podem ser encontrados nas principais lojas online
 Clique nos links abaixo para análises completas de cada modelo:
 
 - [**LEFANT M210P**](./lefant-m210p/index.md) - Melhor custo-benefício em aspiradores robô
+- [**XIAOMI S20**](./xiaomi-s20/index.md) - Alta potência + mopagem 2 em 1
 - [**Aspirador Robot X**](./aspirador-x/index.md) - Automação total para sua casa
 - [**Aspirador Sem Fio Y**](./aspirador-y/index.md) - Versatilidade sem limites
-- [**Aspirador Tradicional Z**](./aspirador-z/index.md) - Potência e confiabilidade
 
 ---
 

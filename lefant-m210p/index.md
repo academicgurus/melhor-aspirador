@@ -118,7 +118,7 @@ keywords: lefant m210p, aspirador robô lefant, aspirador robot 2025, lefant m21
 - **Entrega**: 1-2 dias úteis
 - **ASIN**: B0CQYJ8TVM
 
-**[Comprar na Amazon España →](https://amzn.to/B0CQYJ8TVM?tag=melhoraspirador-21)**
+**[Comprar na Amazon España →](https://amazon.es/B0CQYJ8TVM?tag=melhoraspirador-21)**
 
 ### 🥈 Outros Vendedores
 - **Preço**: €127,80 (sem desconto)
@@ -165,7 +165,7 @@ O **LEFANT M210P** é uma excelente escolha para quem busca um aspirador robô d
 
 **Preço atual**: €89,99 na Amazon España (61% desconto)
 
-**[Comprar Agora →](https://amzn.to/B0CQYJ8TVM?tag=melhoraspirador-21)**
+**[Comprar Agora →](https://amazon.es/B0CQYJ8TVM?tag=melhoraspirador-21)**
 
 ---
 

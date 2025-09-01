@@ -120,7 +120,7 @@ keywords: xiaomi s20, robot aspirador xiaomi, aspirador robot 2025, xiaomi s20 r
 - **Entrega**: 1-2 dias úteis
 - **ASIN**: B0D73WKNTT
 
-**[Comprar na Amazon España →](https://amazon.es/B0D73WKNTT?tag=melhoraspirador-21)**
+**[Comprar na Amazon España →](https://amazon.es/dp/B0D73WKNTT?tag=melhoraspirador-21)**
 
 ### 🥈 Outros Vendedores
 - **Preço**: €182,96 (sem desconto)
@@ -167,7 +167,7 @@ O **Aspirador Robot XIAOMI S20** é uma excelente escolha para quem busca alta p
 
 **Preço atual**: €116,90 na Amazon España (36% desconto)
 
-**[Comprar Agora →](https://amazon.es/B0D73WKNTT?tag=melhoraspirador-21)**
+**[Comprar Agora →](https://amazon.es/dp/B0D73WKNTT?tag=melhoraspirador-21)**
 
 ---
 

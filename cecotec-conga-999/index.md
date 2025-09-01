@@ -117,7 +117,7 @@ keywords: cecotec conga 999, robot aspirador smartgyro, aspirador robot dual mop
 - **Entrega**: 1-2 dias úteis
 - **ASIN**: B0BPZ3KG1C
 
-**[Comprar na Amazon España →](https://amazon.es/B0BPZ3KG1C?tag=melhoraspirador-21)**
+**[Comprar na Amazon España →](https://amazon.es/dp/B0BPZ3KG1C?tag=melhoraspirador-21)**
 
 ### 🥈 Outros Vendedores
 - **Preço**: €138,88+ (versões com 1 mop)
@@ -164,7 +164,7 @@ O **Cecotec Conga 999 Map X-Treme** é uma excelente escolha para quem busca fun
 
 **Preço atual**: €100,64 na Amazon España
 
-**[Comprar Agora →](https://amazon.es/B0BPZ3KG1C?tag=melhoraspirador-21)**
+**[Comprar Agora →](https://amazon.es/dp/B0BPZ3KG1C?tag=melhoraspirador-21)**
 
 ---
 

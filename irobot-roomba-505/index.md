@@ -119,7 +119,7 @@ keywords: irobot roomba 505, robot aspirador premium, aspirador robot autowash, 
 - **Entrega**: 1-2 dias úteis
 - **ASIN**: B0DWFYC9SM
 
-**[Comprar na Amazon España →](https://amazon.es/B0DWFYC9SM?tag=melhoraspirador-21)**
+**[Comprar na Amazon España →](https://amazon.es/dp/B0DWFYC9SM?tag=melhoraspirador-21)**
 
 ### 🥈 Outros Vendedores
 - **Preço**: €812,21 (sem desconto)
@@ -166,7 +166,7 @@ O **iRobot Roomba Plus 505 Combo** é a escolha premium para quem busca tecnolog
 
 **Preço atual**: €494,83 na Amazon España (39% desconto)
 
-**[Comprar Agora →](https://amazon.es/B0DWFYC9SM?tag=melhoraspirador-21)**
+**[Comprar Agora →](https://amazon.es/dp/B0DWFYC9SM?tag=melhoraspirador-21)**
 
 ---
 

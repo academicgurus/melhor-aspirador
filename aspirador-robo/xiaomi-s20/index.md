@@ -1,6 +1,6 @@
 ---
 layout: default
-title: XIAOMI S20 - Review Completa 2025 | Robot Aspirador + Mop
+title: XIAOMI S20 - Review Completa 2025 | Robot Aspirador + Mopa
 description: Análise detalhada do Aspirador Robot XIAOMI S20. Preço €116,90, potência 5000 Pa, mopagem 2 em 1. Vale a pena comprar este aspirador robô?
 keywords: xiaomi s20, robot aspirador xiaomi, aspirador robot 2025, xiaomi s20 review, aspirador mop
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LEFANT M210P - Review Completa 2025 | 2200Pa + 120min + FreeMove 3.0 + 69% Desconto
+title: LEFANT M210P - Review Completa 2025 | 2200Pa + 120min
 description: Análise do robot aspirador LEFANT M210P: 2200Pa sucção, 120min bateria, FreeMove 3.0, 6 modos. Vale a pena com 69% desconto?
 keywords: lefant m210p, robot aspirador, 2200pa, 120min, freemove 3.0, 6 modos, 69% desconto, navegação
 ---

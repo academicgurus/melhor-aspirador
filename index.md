@@ -17,12 +17,12 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 
 | Modelo | Preço | Potência | Autonomia | Avaliação | Ver Review |
 |--------|-------|----------|-----------|-----------|------------|
-| [LEFANT M330 Pro](./lefant-m330-pro/index.md) | €138,24 | 5000 Pa | 150 min | ⭐⭐⭐⭐⭐ | [Ver Análise →](./lefant-m330-pro/index.md) |
-| [LEFANT M310](./lefant-m310/index.md) | €121,98 | 4500 Pa | 180 min | ⭐⭐⭐⭐⭐ | [Ver Análise →](./lefant-m310/index.md) |
-| [LEFANT M210P](./lefant-m210p/index.md) | €79,99 | 2200 Pa | 120 min | ⭐⭐⭐⭐⭐ | [Ver Análise →](./lefant-m210p/index.md) |
-| [XIAOMI S20](./xiaomi-s20/index.md) | €116,90 | 5000 Pa | 120 min | ⭐⭐⭐⭐⭐ | [Ver Análise →](./xiaomi-s20/index.md) |
-| [iRobot Roomba 505](./irobot-roomba-505/index.md) | €494,83 | 70x | 75 dias | ⭐⭐⭐⭐⭐ | [Ver Análise →](./irobot-roomba-505/index.md) |
-| [Cecotec Conga 999](./cecotec-conga-999/index.md) | €100,64 | 2000 Pa | 120 min | ⭐⭐⭐⭐⭐ | [Ver Análise →](./cecotec-conga-999/index.md) |
+| [LEFANT M330 Pro](./aspirador-robo/lefant-m330-pro/index.md) | €138,24 | 5000 Pa | 150 min | ⭐⭐⭐⭐⭐ | [Ver Análise →](./aspirador-robo/lefant-m330-pro/index.md) |
+| [LEFANT M310](./aspirador-robo/lefant-m310/index.md) | €121,98 | 4500 Pa | 180 min | ⭐⭐⭐⭐⭐ | [Ver Análise →](./aspirador-robo/lefant-m310/index.md) |
+| [LEFANT M210P](./aspirador-robo/lefant-m210p/index.md) | €79,99 | 2200 Pa | 120 min | ⭐⭐⭐⭐⭐ | [Ver Análise →](./aspirador-robo/lefant-m210p/index.md) |
+| [XIAOMI S20](./aspirador-robo/xiaomi-s20/index.md) | €116,90 | 5000 Pa | 120 min | ⭐⭐⭐⭐⭐ | [Ver Análise →](./aspirador-robo/xiaomi-s20/index.md) |
+| [iRobot Roomba 505](./aspirador-robo/irobot-roomba-505/index.md) | €494,83 | 70x | 75 dias | ⭐⭐⭐⭐⭐ | [Ver Análise →](./aspirador-robo/irobot-roomba-505/index.md) |
+| [Cecotec Conga 999](./aspirador-robo/cecotec-conga-999/index.md) | €100,64 | 2000 Pa | 120 min | ⭐⭐⭐⭐⭐ | [Ver Análise →](./aspirador-robo/cecotec-conga-999/index.md) |
 
 ## 📋 Tipos de Aspiradores
 
@@ -65,7 +65,7 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 - ✅ **Sem emaranhados** - Entrada sem escova para pêlos
 - ✅ **WiFi duplo** - Conexão estável 2.4GHz + 5GHz
 
-**[Ver Review Completa →](./lefant-m330-pro/index.md)**
+**[Ver Review Completa →](./aspirador-robo/lefant-m330-pro/index.md)**
 
 #### 🥈 LEFANT M310 (4500Pa + 180min + PSD + 8cm)
 
@@ -92,7 +92,7 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 - ✅ **Sem emaranhados** - Ideal para animais de estimação
 - ✅ **Depósito 550ml** - Maior capacidade que M330 Pro
 
-**[Ver Review Completa →](./lefant-m310/index.md)**
+**[Ver Review Completa →](./aspirador-robo/lefant-m310/index.md)**
 
 #### 🥉 LEFANT M210P (2200Pa + 120min + 69% desconto)
 
@@ -119,7 +119,7 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 - ✅ **Sem emaranhados** - Design sem escova para pêlos
 - ✅ **Depósito 500ml** - Boa capacidade
 
-**[Ver Review Completa →](./lefant-m210p/index.md)**
+**[Ver Review Completa →](./aspirador-robo/lefant-m210p/index.md)**
 
 #### 🏅 Aspirador Robot XIAOMI S20
 
@@ -145,7 +145,7 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 - ✅ **Rotas inteligentes** - Zigzag + Y-shaped scrubbing
 - ✅ **Tank duplo** - 400ml pó + 270ml água
 
-**[Ver Review Completa →](./xiaomi-s20/index.md)**
+**[Ver Review Completa →](./aspirador-robo/xiaomi-s20/index.md)**
 
 #### 🏅 iRobot Roomba Plus 505 Combo
 
@@ -171,7 +171,7 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 - ✅ **DualClean Mops** - 18% mais cobertura + 2x mais profundo
 - ✅ **Marca Premium** - iRobot é líder mundial
 
-**[Ver Review Completa →](./irobot-roomba-505/index.md)**
+**[Ver Review Completa →](./aspirador-robo/irobot-roomba-505/index.md)**
 
 #### 🏅 Cecotec Conga 999 Map X-Treme
 
@@ -197,7 +197,7 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 - ✅ **Total Surface** - Retorna à base e continua limpeza
 - ✅ **3 Níveis de Água** - Controle inteligente do fluxo
 
-**[Ver Review Completa →](./cecotec-conga-999/index.md)**
+**[Ver Review Completa →](./aspirador-robo/cecotec-conga-999/index.md)**
 
 ### 🔋 Aspirador Vertical (Sem Fio)
 **O que é**: Aspiradores portáteis sem fio, geralmente em formato de bastão.
@@ -236,7 +236,7 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 - ✅ **Cabo longo** - 4.5m de alcance
 - ✅ **Leve e ergonômico** - Apenas 1.9kg
 
-**[Ver Review Completa →](./cecotec-thunderbrush-560/index.md)**
+**[Ver Review Completa →](./aspirador-vertical/cecotec-thunderbrush-560/index.md)**
 
 #### 🥈 Proscenic P15
 
@@ -262,7 +262,7 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 - ✅ **Bateria removível** - 70 min de autonomia
 - ✅ **Filtro HEPA 6 etapas** - 99.9% eficiência
 
-**[Ver Review Completa →](./proscenic-p15/index.md)**
+**[Ver Review Completa →](./aspirador-vertical/proscenic-p15/index.md)**
 
 #### 🥉 DREAME H12 Pro FlexReach
 
@@ -288,7 +288,7 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 - ✅ **Alcance 180°** - Acesso a espaços estreitos
 - ✅ **Secagem automática** - 5 min ar quente
 
-**[Ver Review Completa →](./dreame-h12-pro-flexreach/index.md)**
+**[Ver Review Completa →](./aspirador-vertical/dreame-h12-pro-flexreach/index.md)**
 
 #### 🏅 Taurus HUD
 
@@ -314,7 +314,7 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 - ✅ **Leve** - Apenas 2kg
 - ✅ **Bateria Removível** - 29.6V Li-Ion
 
-**[Ver Review Completa →](./taurus-hud/index.md)**
+**[Ver Review Completa →](./aspirador-vertical/taurus-hud/index.md)**
 
 ### 🔌 Aspirador sem Saco
 **O que é**: Aspiradores modernos sem saco que utilizam tecnologia ciclônica para separar poeira e sujeira.
@@ -353,7 +353,7 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 - ✅ **Bocal tripla ação** - Regulável
 - ✅ **Marca confiável** - Amazon Basics
 
-**[Ver Review Completa →](./amazon-basics-700w/index.md)**
+**[Ver Review Completa →](./aspirador-sem-saco/amazon-basics-700w/index.md)**
 
 #### 🥈 LG VC5506NHTB
 
@@ -379,7 +379,7 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 - ✅ **Marca premium** - LG qualidade garantida
 - ✅ **Filtros laváveis** - Fácil manutenção
 
-**[Ver Review Completa →](./lg-vc5506nhtb/index.md)**
+**[Ver Review Completa →](./aspirador-sem-saco/lg-vc5506nhtb/index.md)**
 
 #### 🥉 Philips PowerPro Compact FC9332/09
 
@@ -406,7 +406,7 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 - ✅ **Marca premium** - Philips qualidade garantida
 - ✅ **Filtro anti-alergias** - Para alérgicos
 
-**[Ver Review Completa →](./philips-powerpro-compact/index.md)**
+**[Ver Review Completa →](./aspirador-sem-saco/philips-powerpro-compact/index.md)**
 
 #### 🏅 Rowenta Compact Power XXL
 
@@ -433,7 +433,7 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 - ✅ **Motor eficiente** - 900W baixo consumo
 - ✅ **Design compacto** - Fácil manobrabilidade
 
-**[Ver Review Completa →](./rowenta-compact-power-xxl/index.md)**
+**[Ver Review Completa →](./aspirador-sem-saco/rowenta-compact-power-xxl/index.md)**
 
 ### 🖐️ Aspirador de Mão
 **O que é**: Aspiradores pequenos e portáteis para limpeza pontual.
@@ -472,7 +472,7 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 - ✅ **Tecnologia Ciclônica** - Sem sacos
 - ✅ **Acessórios Inclusos** - Casa e carro
 
-**[Ver Review Completa →](./cecotec-immortal-extreme/index.md)**
+**[Ver Review Completa →](./aspirador-de-mao/cecotec-immortal-extreme/index.md)**
 
 #### 🥈 CUGEFRE ST-6691 Plus
 
@@ -498,7 +498,7 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 - ✅ **Descarga automática** - Um toque
 - ✅ **9 acessórios** - Versatilidade total
 
-**[Ver Review Completa →](./cugefre-st-6691-plus/index.md)**
+**[Ver Review Completa →](./aspirador-de-mao/cugefre-st-6691-plus/index.md)**
 
 #### 🥉 SERVOMASTER SM01
 
@@ -524,7 +524,7 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 - ✅ **2 Filtros** - Um extra incluído
 - ✅ **Leve** - Apenas 1.26 libras
 
-**[Ver Review Completa →](./servomaster-sm01/index.md)**
+**[Ver Review Completa →](./aspirador-de-mao/servomaster-sm01/index.md)**
 
 #### 🏅 NVKHG 18,000 Pa
 
@@ -550,7 +550,7 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 - ✅ **Filtro HEPA** - Lavável e reutilizável
 - ✅ **USB-C** - Carregamento universal
 
-**[Ver Review Completa →](./nvkhg-18000pa/index.md)**
+**[Ver Review Completa →](./aspirador-de-mao/nvkhg-18000pa/index.md)**
 
 ### 🏭 Aspirador Industrial (Pó e Líquidos)
 **O que é**: Aspiradores robustos para limpeza pesada e industrial.
@@ -614,24 +614,24 @@ Todos os produtos recomendados podem ser encontrados nas principais lojas online
 
 Clique nos links abaixo para análises completas de cada modelo:
 
-- [**LEFANT M330 Pro**](./lefant-m330-pro/index.md) - dToF + 5000Pa + 150min + Ultra fino
-- [**LEFANT M310**](./lefant-m310/index.md) - PSD + 4500Pa + 180min + Super fino
-- [**LEFANT M210P**](./lefant-m210p/index.md) - FreeMove 3.0 + 2200Pa + 120min + 69% desconto
-- [**XIAOMI S20**](./xiaomi-s20/index.md) - Alta potência + mopagem 2 em 1
-- [**iRobot Roomba 505**](./irobot-roomba-505/index.md) - Premium com AutoWash + LiDAR Pro
-- [**Cecotec Conga 999**](./cecotec-conga-999/index.md) - SmartGyro + Dual Mop System
-- [**Cecotec ThunderBrush 560**](./cecotec-thunderbrush-560/index.md) - Vertical 2 em 1 + HEPA
-- [**Proscenic P15**](./proscenic-p15/index.md) - Sem fio + Anti-emaranhamento
-- [**DREAME H12 Pro FlexReach**](./dreame-h12-pro-flexreach/index.md) - Seco + Húmido + 18,000 Pa
-- [**Taurus HUD**](./taurus-hud/index.md) - 21,000 Pa + Motor Brushless
-- [**Cecotec Immortal Extreme**](./cecotec-immortal-extreme/index.md) - Wet & Dry + 22.2V
-- [**CUGEFRE ST-6691 Plus**](./cugefre-st-6691-plus/index.md) - 22,000 Pa + 4 em 1
-- [**SERVOMASTER SM01**](./servomaster-sm01/index.md) - 9,000 Pa + HEPA
-- [**NVKHG 18,000 Pa**](./nvkhg-18000pa/index.md) - 18,000 Pa + 4 em 1
-- [**Amazon Basics 700W**](./amazon-basics-700w/index.md) - 700W + HEPA 12 + Ciclônico
-- [**LG VC5506NHTB**](./lg-vc5506nhtb/index.md) - 650W + Elipse Ciclônico + Tubo Telescópico
-- [**Philips PowerPro Compact**](./philips-powerpro-compact/index.md) - 650W + PowerCyclone 5 + TriActive
-- [**Rowenta Compact Power XXL**](./rowenta-compact-power-xxl/index.md) - 900W + 2.5L + Ciclônica 3 níveis
+- [**LEFANT M330 Pro**](./aspirador-robo/lefant-m330-pro/index.md) - dToF + 5000Pa + 150min + Ultra fino
+- [**LEFANT M310**](./aspirador-robo/lefant-m310/index.md) - PSD + 4500Pa + 180min + Super fino
+- [**LEFANT M210P**](./aspirador-robo/lefant-m210p/index.md) - FreeMove 3.0 + 2200Pa + 120min + 69% desconto
+- [**XIAOMI S20**](./aspirador-robo/xiaomi-s20/index.md) - Alta potência + mopagem 2 em 1
+- [**iRobot Roomba 505**](./aspirador-robo/irobot-roomba-505/index.md) - Premium com AutoWash + LiDAR Pro
+- [**Cecotec Conga 999**](./aspirador-robo/cecotec-conga-999/index.md) - SmartGyro + Dual Mop System
+- [**Cecotec ThunderBrush 560**](./aspirador-vertical/cecotec-thunderbrush-560/index.md) - Vertical 2 em 1 + HEPA
+- [**Proscenic P15**](./aspirador-vertical/proscenic-p15/index.md) - Sem fio + Anti-emaranhamento
+- [**DREAME H12 Pro FlexReach**](./aspirador-vertical/dreame-h12-pro-flexreach/index.md) - Seco + Húmido + 18,000 Pa
+- [**Taurus HUD**](./aspirador-vertical/taurus-hud/index.md) - 21,000 Pa + Motor Brushless
+- [**Cecotec Immortal Extreme**](./aspirador-de-mao/cecotec-immortal-extreme/index.md) - Wet & Dry + 22.2V
+- [**CUGEFRE ST-6691 Plus**](./aspirador-de-mao/cugefre-st-6691-plus/index.md) - 22,000 Pa + 4 em 1
+- [**SERVOMASTER SM01**](./aspirador-de-mao/servomaster-sm01/index.md) - 9,000 Pa + HEPA
+- [**NVKHG 18,000 Pa**](./aspirador-de-mao/nvkhg-18000pa/index.md) - 18,000 Pa + 4 em 1
+- [**Amazon Basics 700W**](./aspirador-sem-saco/amazon-basics-700w/index.md) - 700W + HEPA 12 + Ciclônico
+- [**LG VC5506NHTB**](./aspirador-sem-saco/lg-vc5506nhtb/index.md) - 650W + Elipse Ciclônico + Tubo Telescópico
+- [**Philips PowerPro Compact**](./aspirador-sem-saco/philips-powerpro-compact/index.md) - 650W + PowerCyclone 5 + TriActive
+- [**Rowenta Compact Power XXL**](./aspirador-sem-saco/rowenta-compact-power-xxl/index.md) - 900W + 2.5L + Ciclônica 3 níveis
 
 ---
 

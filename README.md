@@ -23,7 +23,7 @@ O que começou como uma busca pessoal se transformou em uma obsessão saudável!
 
 ### Como Testamos
 1. **Uso real por 30+ dias** - Cada aspirador é testado em condições reais
-2. **Diferentes tipos de sujeira** - Pêlos de animais, migalhas, pó fino, líquidos
+2. **Diferentes tipos de sujidade** - Pêlos de animais, migalhas, pó fino, líquidos
 3. **Vários tipos de piso** - Madeira, cerâmica, tapetes, carpetes
 4. **Medição objetiva** - Tempo de limpeza, consumo de energia, ruído
 5. **Análise de custo-benefício** - Relação preço vs. performance

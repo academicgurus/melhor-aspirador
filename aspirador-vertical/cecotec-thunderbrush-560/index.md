@@ -66,7 +66,7 @@ keywords: cecotec thunderbrush 560, aspirador vertical, aspirador 2 em 1, aspira
 - **Modo Vertical**: Para limpeza de pisos e superfícies grandes
 - **Modo Mão**: Para cantos, móveis e áreas difíceis
 - **Tecnologia Twisted 180º**: Permite inclinação total para limpeza
-- **Sistema Ciclônico**: Separa sujeira sem perder potência
+- **Sistema Ciclônico**: Separa sujidade sem perder potência
 - **Filtro HEPA**: Purifica o ar durante a limpeza
 
 ### Tecnologias Especiais

@@ -67,7 +67,7 @@ keywords: rowenta compact power ro3969, aspirador com saco, 3l, filtro permanent
 5. **Experimente a roda 360°** para mobilidade
 
 ### Funcionamento Diário
-- **Tecnologia tradicional**: Saco captura poeira e sujeira
+- **Tecnologia tradicional**: Saco captura poeira e sujidade
 - **Filtro permanente**: Captura 99.98% das partículas
 - **Cabo de 6.2m**: Alcance total sem trocar tomadas
 - **Roda 360°**: Mobilidade total pela casa

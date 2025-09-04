@@ -75,10 +75,10 @@ keywords: xiaomi s20, robot aspirador xiaomi, aspirador robot 2025, xiaomi s20 r
 - Envia relatórios de limpeza para o app
 
 ### Funcionalidades 2 em 1
-- **Aspiração**: Remove pó, pelos e sujeira
-- **Mopagem**: Limpa manchas e sujeira seca
+- **Aspiração**: Remove pó, pelos e sujidade
+- **Mopagem**: Limpa manchas e sujidade seca
 - **Simultâneo**: Pode fazer ambos ao mesmo tempo
-- **3 Modos de Potência**: Adaptável ao tipo de sujeira
+- **3 Modos de Potência**: Adaptável ao tipo de sujidade
 
 ## 💰 Análise de Custo-Benefício
 

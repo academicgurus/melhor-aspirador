@@ -67,7 +67,7 @@ keywords: amazon basics 700w com saco, aspirador com saco, hepa 12, aspirador tr
 5. **Verifique os sacos** incluídos (1 tecido + 2 papel)
 
 ### Funcionamento Diário
-- **Tecnologia tradicional**: Saco captura poeira e sujeira
+- **Tecnologia tradicional**: Saco captura poeira e sujidade
 - **Filtro HEPA 12**: Captura 99.5% das partículas
 - **Bocal tripla ação**: Regulável para diferentes superfícies
 - **Cabo de 5m**: Alcance total pela casa

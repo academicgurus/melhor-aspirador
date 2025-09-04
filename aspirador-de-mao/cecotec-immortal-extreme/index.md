@@ -63,7 +63,7 @@ keywords: cecotec immortal extreme, aspirador de mao, aspirador wet dry, aspirad
 5. **Teste a funcionalidade** wet & dry
 
 ### Funcionamento Diário
-- **Modo Seco**: Para pó, migalhas e sujeira sólida
+- **Modo Seco**: Para pó, migalhas e sujidade sólida
 - **Modo Húmido**: Para líquidos derramados
 - **Acessórios Casa**: Para móveis e superfícies
 - **Acessórios Carro**: Para interior e estofos

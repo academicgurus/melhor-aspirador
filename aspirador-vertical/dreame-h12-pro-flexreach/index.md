@@ -66,7 +66,7 @@ keywords: dreame h12 pro flexreach, aspirador seco humido, aspirador 18000 pa, a
 5. **Teste a função TangleCut** em áreas com cabelo
 
 ### Funcionamento Diário
-- **Modo Seco**: Para aspiração tradicional de pó e sujeira
+- **Modo Seco**: Para aspiração tradicional de pó e sujidade
 - **Modo Húmido**: Para limpeza profunda com água
 - **Alcance 180°**: Acesso a espaços de até 14cm
 - **TangleCut**: Elimina emaranhados automaticamente

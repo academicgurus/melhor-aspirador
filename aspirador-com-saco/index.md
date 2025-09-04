@@ -13,7 +13,7 @@ Bem-vindo ao seu guia definitivo para escolher o **melhor aspirador com saco de 
 
 ## 🤔 O que é um Aspirador com Saco?
 
-Um aspirador com saco é o tipo tradicional de aspirador que utiliza sacos descartáveis para coletar poeira e sujeira. Estes aspiradores são conhecidos por sua simplicidade, confiabilidade e facilidade de manutenção.
+Um aspirador com saco é o tipo tradicional de aspirador que utiliza sacos descartáveis para coletar poeira e sujidade. Estes aspiradores são conhecidos por sua simplicidade, confiabilidade e facilidade de manutenção.
 
 ## 📋 Características dos Aspiradores com Saco
 

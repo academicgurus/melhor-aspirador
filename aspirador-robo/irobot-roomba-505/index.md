@@ -67,7 +67,7 @@ keywords: irobot roomba 505, robot aspirador premium, aspirador robot autowash, 
 
 ### Funcionamento Diário
 - O robot mapeia sua casa usando ClearView Pro LiDAR
-- AI PrecisionVision detecta obstáculos e sujeira
+- AI PrecisionVision detecta obstáculos e sujidade
 - Escolha entre 4 modos: aspiração, mopagem, combinação ou sequencial
 - AutoWash base lava e seca os mopas automaticamente
 - Auto-emptying mantém o robot funcionando por 75 dias

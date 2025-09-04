@@ -67,7 +67,7 @@ keywords: aeg ab61h6sw, aspirador com saco, 850w, 3.5l, raio 12m, garantia 10 an
 5. **Experimente o raio de 12m** para alcance total
 
 ### Funcionamento Diário
-- **Tecnologia tradicional**: Saco captura poeira e sujeira
+- **Tecnologia tradicional**: Saco captura poeira e sujidade
 - **Filtro lavável**: Captura partículas eficientemente
 - **Raio 12m**: Alcance total sem trocar tomadas
 - **Rodas XL**: Movimento suave pela casa

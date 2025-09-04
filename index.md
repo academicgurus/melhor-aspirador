@@ -11,7 +11,7 @@ Bem-vindo ao seu guia definitivo para escolher o **melhor aspirador de 2025**! A
 
 ## 🤔 O que é um Aspirador?
 
-Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remover poeira, sujeira e partículas do chão e outras superfícies. Os aspiradores modernos vêm em diversos tipos, cada um com características específicas para diferentes necessidades de limpeza.
+Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remover poeira, sujidade e partículas do chão e outras superfícies. Os aspiradores modernos vêm em diversos tipos, cada um com características específicas para diferentes necessidades de limpeza.
 
 ## 🏆 Top 6 Melhores Aspiradores Robô de 2025
 
@@ -317,7 +317,7 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 **[Ver Review Completa →](./aspirador-vertical/taurus-hud/index.md)**
 
 ### 🔌 Aspirador sem Saco
-**O que é**: Aspiradores modernos sem saco que utilizam tecnologia ciclônica para separar poeira e sujeira.
+**O que é**: Aspiradores modernos sem saco que utilizam tecnologia ciclônica para separar poeira e sujidade.
 
 **Características**:
 - ✅ Tecnologia ciclônica sem saco

@@ -101,7 +101,7 @@ keywords: nvkhg 18000 pa, aspirador de mao, aspirador 18000 pa, motor sem escova
 - **Apartamentos pequenos** (até 80m²)
 - **Limpeza de carros** (interior e estofos)
 - **Escritórios** (mesas e teclados)
-- **Cozinhas** (migalhas e sujeira)
+- **Cozinhas** (migalhas e sujidade)
 - **Quem busca alta potência** (18,000 Pa)
 
 ### ❌ Não Recomendado Para

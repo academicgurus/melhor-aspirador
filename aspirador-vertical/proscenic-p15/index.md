@@ -67,7 +67,7 @@ keywords: proscenic p15, aspirador sem fio, aspirador anti emaranhamento, aspira
 ### Funcionamento Diário
 - **Modo Automático**: Detecta automaticamente tipo de piso
 - **Anti-emaranhamento**: Cabeça em V de 25.5cm elimina pelos
-- **GREENeye LED**: Ilumina área de 120° para detectar sujeira
+- **GREENeye LED**: Ilumina área de 120° para detectar sujidade
 - **Bateria Removível**: Troca fácil quando necessário
 - **Filtro HEPA**: Purifica o ar durante a limpeza
 
@@ -130,7 +130,7 @@ keywords: proscenic p15, aspirador sem fio, aspirador anti emaranhamento, aspira
 ## 🔍 Reviews de Usuários
 
 ### ⭐⭐⭐⭐⭐ (95% dos usuários)
-> "Excelente aspirador sem fio! A tecnologia anti-emaranhamento funciona perfeitamente com meus cães. A autonomia de 70 minutos é incrível e o GREENeye LED realmente mostra sujeira invisível."
+> "Excelente aspirador sem fio! A tecnologia anti-emaranhamento funciona perfeitamente com meus cães. A autonomia de 70 minutos é incrível e o GREENeye LED realmente mostra sujidade invisível."
 
 ### ⭐⭐⭐⭐ (4% dos usuários)
 > "Muito bom produto. A potência é excelente e a bateria removível é uma grande vantagem. O preço é justo para a qualidade oferecida."

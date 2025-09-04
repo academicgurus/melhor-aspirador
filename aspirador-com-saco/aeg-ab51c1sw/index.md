@@ -67,7 +67,7 @@ keywords: aeg ab51c1sw, aspirador com saco, 750w, 3.5l, 8.5m, sustentavel, aeg a
 5. **Experimente o alcance** de 8.5m
 
 ### Funcionamento Diário
-- **Tecnologia tradicional**: Saco captura poeira e sujeira
+- **Tecnologia tradicional**: Saco captura poeira e sujidade
 - **Filtro lavável**: Captura partículas eficientemente
 - **Cabo de 8.5m**: Alcance total sem trocar tomadas
 - **Escova AllFloor**: Sistema de clique para diferentes superfícies

@@ -164,4 +164,4 @@ O **Aspirador Tradicional Z** é uma excelente escolha para quem busca potência
 
 **Anterior**: [Aspirador Sem Fio Y](./aspirador-y/) | [Aspirador Robot X](./aspirador-x/)
 
-*Última atualização: Janeiro 2025*
+*Última atualização: Setembro 2025*

@@ -157,4 +157,4 @@ O **Aspirador Robot X** é uma excelente escolha para quem busca automação tot
 
 **Próximo**: [Aspirador Sem Fio Y](./aspirador-y/) | [Aspirador Tradicional Z](./aspirador-z/)
 
-*Última atualização: Janeiro 2025*
+*Última atualização: Setembro 2025*

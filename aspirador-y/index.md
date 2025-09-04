@@ -161,4 +161,4 @@ O **Aspirador Sem Fio Y** é uma excelente escolha para quem busca praticidade e
 
 **Anterior**: [Aspirador Robot X](./aspirador-x/) | **Próximo**: [Aspirador Tradicional Z](./aspirador-z/)
 
-*Última atualização: Janeiro 2025*
+*Última atualização: Setembro 2025*

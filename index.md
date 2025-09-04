@@ -13,11 +13,13 @@ Bem-vindo ao seu guia definitivo para escolher o **melhor aspirador de 2025**! A
 
 Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remover poeira, sujeira e partículas do chão e outras superfícies. Os aspiradores modernos vêm em diversos tipos, cada um com características específicas para diferentes necessidades de limpeza.
 
-## 🏆 Top 4 Melhores Aspiradores Robô de 2025
+## 🏆 Top 6 Melhores Aspiradores Robô de 2025
 
 | Modelo | Preço | Potência | Autonomia | Avaliação | Ver Review |
 |--------|-------|----------|-----------|-----------|------------|
-| [LEFANT M210P](./lefant-m210p/index.md) | €89,99 | 2200 Pa | 120 min | ⭐⭐⭐⭐⭐ | [Ver Análise →](./lefant-m210p/index.md) |
+| [LEFANT M330 Pro](./lefant-m330-pro/index.md) | €138,24 | 5000 Pa | 150 min | ⭐⭐⭐⭐⭐ | [Ver Análise →](./lefant-m330-pro/index.md) |
+| [LEFANT M310](./lefant-m310/index.md) | €121,98 | 4500 Pa | 180 min | ⭐⭐⭐⭐⭐ | [Ver Análise →](./lefant-m310/index.md) |
+| [LEFANT M210P](./lefant-m210p/index.md) | €79,99 | 2200 Pa | 120 min | ⭐⭐⭐⭐⭐ | [Ver Análise →](./lefant-m210p/index.md) |
 | [XIAOMI S20](./xiaomi-s20/index.md) | €116,90 | 5000 Pa | 120 min | ⭐⭐⭐⭐⭐ | [Ver Análise →](./xiaomi-s20/index.md) |
 | [iRobot Roomba 505](./irobot-roomba-505/index.md) | €494,83 | 70x | 75 dias | ⭐⭐⭐⭐⭐ | [Ver Análise →](./irobot-roomba-505/index.md) |
 | [Cecotec Conga 999](./cecotec-conga-999/index.md) | €100,64 | 2000 Pa | 120 min | ⭐⭐⭐⭐⭐ | [Ver Análise →](./cecotec-conga-999/index.md) |
@@ -37,33 +39,89 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 
 **Ideal para**: Casas grandes, famílias ocupadas, quem busca automação total.
 
-#### 🏆 Melhor Aspirador Robô 2025: LEFANT M210P
+#### 🏆 Melhor Aspirador Robô 2025: LEFANT M330 Pro
 
-![Aspirador robo LEFANT M210P](https://m.media-amazon.com/images/I/61fuj+nccVL._AC_SL1500_.jpg)
+![LEFANT M330 Pro](https://m.media-amazon.com/images/I/71WYcqkYuqL._AC_SL1500_.jpg)
 
 | Especificação | Detalhes |
 |---------------|----------|
-| **Preço** | €89,99 (61% desconto) |
-| **Potência de Sucção** | 2200 Pa |
-| **Autonomia** | 120 minutos |
-| **Capacidade** | 500ml |
-| **Altura** | 7cm |
-| **Diâmetro** | 33cm |
+| **Preço** | €138,24 (14% desconto) |
+| **Navegação** | dToF (15m alcance) |
+| **Sucção** | 5000Pa |
+| **Bateria** | 150 minutos |
+| **Depósito** | 450ml |
+| **Altura** | 9.5cm (ultra fino) |
+| **Diâmetro** | 28cm |
 | **Filtro** | HEPA |
-| **Controle** | App, Alexa, Controle Remoto |
-| **Modos de Limpeza** | 6 modos diferentes |
-| **Sensores** | 13 sensores anticolisão |
+| **WiFi** | 2.4GHz + 5GHz |
+| **Controle** | App + Alexa + Google |
+| **Garantia** | 2 anos |
 
 **Principais Vantagens**:
-- ✅ **Preço excepcional** - 61% de desconto
-- ✅ **Tecnologia Freemove 3.0** - Navegação inteligente
-- ✅ **Boca de aspiração sem escovas** - Ideal para pelos de animais
-- ✅ **Controle remoto incluído** - Fácil para idosos
+- ✅ **Navegação dToF** - Mapeamento preciso até 15m
+- ✅ **5000Pa sucção** - Poderosa para tapetes e pêlos
+- ✅ **150min autonomia** - Ideal para casas até 150m²
+- ✅ **9.5cm altura** - Ultra fino para espaços estreitos
+- ✅ **Sem emaranhados** - Entrada sem escova para pêlos
+- ✅ **WiFi duplo** - Conexão estável 2.4GHz + 5GHz
+
+**[Ver Review Completa →](./lefant-m330-pro/index.md)**
+
+#### 🥈 LEFANT M310 (4500Pa + 180min + PSD + 8cm)
+
+![LEFANT M310](https://m.media-amazon.com/images/I/81Rto7bzfkL._AC_SL1500_.jpg)
+
+| Especificação | Detalhes |
+|---------------|----------|
+| **Preço** | €121,98 |
+| **Sucção** | 4500Pa |
+| **Bateria** | 180 minutos |
+| **Depósito** | 550ml |
+| **Altura** | 8cm (super fino) |
+| **Diâmetro** | 28cm |
+| **Filtro** | HEPA |
+| **WiFi** | 2.4GHz |
+| **Controle** | App + Alexa + Google |
+| **Especialidade** | PSD + Sem emaranhados |
+
+**Principais Vantagens**:
+- ✅ **4500Pa sucção** - Poderosa para tapetes e pêlos
+- ✅ **180min autonomia** - Ideal para casas até 180m²
+- ✅ **8cm altura** - Super fino para espaços estreitos
+- ✅ **PSD 180°** - Prevenção precisa de obstáculos
+- ✅ **Sem emaranhados** - Ideal para animais de estimação
+- ✅ **Depósito 550ml** - Maior capacidade que M330 Pro
+
+**[Ver Review Completa →](./lefant-m310/index.md)**
+
+#### 🥉 LEFANT M210P (2200Pa + 120min + 69% desconto)
+
+![LEFANT M210P](https://m.media-amazon.com/images/I/61fuj+nccVL._AC_SL1500_.jpg)
+
+| Especificação | Detalhes |
+|---------------|----------|
+| **Preço** | €79,99 (69% desconto) |
+| **Sucção** | 2200Pa |
+| **Bateria** | 120 minutos |
+| **Depósito** | 500ml |
+| **Altura** | 7.8cm (fino) |
+| **Diâmetro** | 28cm |
+| **Filtro** | HEPA |
+| **WiFi** | 2.4GHz |
+| **Controle** | App + Alexa |
+| **Especialidade** | FreeMove 3.0 + 6 modos |
+
+**Principais Vantagens**:
+- ✅ **Preço excepcional** - €79,99 com 69% desconto
+- ✅ **FreeMove 3.0** - Navegação inteligente com sensores
 - ✅ **6 modos de limpeza** - Versatilidade total
+- ✅ **13 sensores** - Anticolisão e queda
+- ✅ **Sem emaranhados** - Design sem escova para pêlos
+- ✅ **Depósito 500ml** - Boa capacidade
 
 **[Ver Review Completa →](./lefant-m210p/index.md)**
 
-#### 🥈 Aspirador Robot XIAOMI S20
+#### 🏅 Aspirador Robot XIAOMI S20
 
 ![XIAOMI S20 Robot Vacuum](https://m.media-amazon.com/images/I/61ZviZn9JwL._AC_SL1500_.jpg)
 
@@ -89,7 +147,7 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 
 **[Ver Review Completa →](./xiaomi-s20/index.md)**
 
-#### 🥉 iRobot Roomba Plus 505 Combo
+#### 🏅 iRobot Roomba Plus 505 Combo
 
 ![iRobot Roomba 505 Combo](https://m.media-amazon.com/images/I/71xEHMSV3UL._AC_SL1500_.jpg)
 
@@ -258,20 +316,124 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 
 **[Ver Review Completa →](./taurus-hud/index.md)**
 
-### 🔌 Aspirador de Tambor/Lata
-**O que é**: Aspiradores tradicionais com fio e reservatório separado do motor.
+### 🔌 Aspirador sem Saco
+**O que é**: Aspiradores modernos sem saco que utilizam tecnologia ciclônica para separar poeira e sujeira.
 
 **Características**:
-- ✅ Alta potência de sucção
-- ✅ Capacidade grande de armazenamento
-- ✅ Preço acessível
-- ✅ Durabilidade comprovada
+- ✅ Tecnologia ciclônica sem saco
+- ✅ Filtro HEPA de alta eficiência
+- ✅ Fácil manutenção
+- ✅ Preço competitivo
 - ❌ Fio limitante
-- ❌ Mais barulhento
+- ❌ Pode ser mais barulhento
 
-**Ideal para**: Casas grandes, limpeza pesada, orçamento limitado.
+**Ideal para**: Casas médias, quem busca facilidade de manutenção, limpeza eficiente.
 
-**[Ver Aspirador Tradicional Z →](./aspirador-z/index.md)**
+#### 🏆 Amazon Basics 700W
+
+![Amazon Basics 700W Bagless](https://m.media-amazon.com/images/I/615yTAil-vL._AC_SL1500_.jpg)
+
+| Especificação | Detalhes |
+|---------------|----------|
+| **Preço** | €66,06 |
+| **Potência** | 700W |
+| **Tecnologia** | Ciclônica sem saco |
+| **Filtro** | HEPA 12 |
+| **Capacidade** | 1.5L |
+| **Cabo** | 5m |
+| **Mangueira** | 1.5m ajustável |
+| **Ruído** | 78 dB |
+| **Consumo** | 25 kWh/ano |
+| **Peso** | 11.79 libras |
+
+**Principais Vantagens**:
+- ✅ **Filtro HEPA 12** - 99.5% eficiência
+- ✅ **Tecnologia ciclônica** - Sem sacos
+- ✅ **Cabo auto-enrolável** - 5m de alcance
+- ✅ **Bocal tripla ação** - Regulável
+- ✅ **Marca confiável** - Amazon Basics
+
+**[Ver Review Completa →](./amazon-basics-700w/index.md)**
+
+#### 🥈 LG VC5506NHTB
+
+![LG VC5506NHTB Bagless](https://m.media-amazon.com/images/I/61wR92jlOWL._AC_SL1500_.jpg)
+
+| Especificação | Detalhes |
+|---------------|----------|
+| **Preço** | €78,26 |
+| **Potência** | 650W |
+| **Tecnologia** | Elipse Ciclônico |
+| **Filtro** | P lavável |
+| **Capacidade** | 1.1L |
+| **Tubo** | Telescópico (4 posições) |
+| **Controle** | Potência ajustável no cabo |
+| **Peso** | 4.4kg |
+| **Voltagem** | 25.9V |
+| **Superfícies** | Tapetes + Pisos duros |
+
+**Principais Vantagens**:
+- ✅ **Sistema Elipse Ciclônico** - Tecnologia LG avançada
+- ✅ **Tubo telescópico** - 4 posições ajustáveis
+- ✅ **Controle de potência** - No cabo, sem interromper
+- ✅ **Marca premium** - LG qualidade garantida
+- ✅ **Filtros laváveis** - Fácil manutenção
+
+**[Ver Review Completa →](./lg-vc5506nhtb/index.md)**
+
+#### 🥉 Philips PowerPro Compact FC9332/09
+
+![Philips PowerPro Compact FC9332/09](https://m.media-amazon.com/images/I/51EnUtdNr9L._AC_SL1080_.jpg)
+
+| Especificação | Detalhes |
+|---------------|----------|
+| **Preço** | €99,84 (3% desconto) |
+| **Potência** | 650W |
+| **Tecnologia** | PowerCyclone 5 |
+| **Filtro** | Anti-alergias |
+| **Capacidade** | 1.5L |
+| **Cabo** | 6m |
+| **Sucção** | 27.8 metros |
+| **Peso** | 6.1kg |
+| **Voltagem** | 220V |
+| **Superfícies** | Tapetes + Pisos duros |
+| **Classe Energética** | A |
+
+**Principais Vantagens**:
+- ✅ **PowerCyclone 5** - Tecnologia Philips avançada
+- ✅ **Escova TriActive** - 3 ações em uma passagem
+- ✅ **Cabo longo** - 6m de alcance
+- ✅ **Marca premium** - Philips qualidade garantida
+- ✅ **Filtro anti-alergias** - Para alérgicos
+
+**[Ver Review Completa →](./philips-powerpro-compact/index.md)**
+
+#### 🏅 Rowenta Compact Power XXL
+
+![Rowenta Compact Power XXL Bagless](https://m.media-amazon.com/images/I/61X-oJerXWL._AC_SL1500_.jpg)
+
+| Especificação | Detalhes |
+|---------------|----------|
+| **Preço** | €81,32 (14% desconto) |
+| **Potência** | 900W |
+| **Tecnologia** | Ciclônica 3 níveis |
+| **Filtro** | Espuma |
+| **Capacidade** | 2.5L |
+| **Cabo** | 8.8m |
+| **Peso** | 3.8kg |
+| **Voltagem** | 220V |
+| **Superfícies** | Todos os pisos |
+| **Filtração** | 99.98% partículas |
+| **Design** | Compacto + Portátil |
+
+**Principais Vantagens**:
+- ✅ **Capacidade XXL** - 2.5L para casas grandes
+- ✅ **Tecnologia 3 níveis** - Filtração avançada
+- ✅ **Cabo longo** - 8.8m de alcance
+- ✅ **Motor eficiente** - 900W baixo consumo
+- ✅ **Design compacto** - Fácil manobrabilidade
+
+**[Ver Review Completa →](./rowenta-compact-power-xxl/index.md)**
 
 ### 🖐️ Aspirador de Mão
 **O que é**: Aspiradores pequenos e portáteis para limpeza pontual.
@@ -403,6 +565,8 @@ Um aspirador é um dispositivo eletrodoméstico que utiliza sucção para remove
 
 **Ideal para**: Oficinas, construções, limpeza pesada.
 
+[Ver guia de Aspirador Industrial →](./aspirador-industrial/index.md)
+
 ## 🎯 Como Escolher o Melhor Aspirador
 
 ### Para Apartamentos Pequenos (até 60m²)
@@ -450,7 +614,9 @@ Todos os produtos recomendados podem ser encontrados nas principais lojas online
 
 Clique nos links abaixo para análises completas de cada modelo:
 
-- [**LEFANT M210P**](./lefant-m210p/index.md) - Melhor custo-benefício em aspiradores robô
+- [**LEFANT M330 Pro**](./lefant-m330-pro/index.md) - dToF + 5000Pa + 150min + Ultra fino
+- [**LEFANT M310**](./lefant-m310/index.md) - PSD + 4500Pa + 180min + Super fino
+- [**LEFANT M210P**](./lefant-m210p/index.md) - FreeMove 3.0 + 2200Pa + 120min + 69% desconto
 - [**XIAOMI S20**](./xiaomi-s20/index.md) - Alta potência + mopagem 2 em 1
 - [**iRobot Roomba 505**](./irobot-roomba-505/index.md) - Premium com AutoWash + LiDAR Pro
 - [**Cecotec Conga 999**](./cecotec-conga-999/index.md) - SmartGyro + Dual Mop System
@@ -462,9 +628,13 @@ Clique nos links abaixo para análises completas de cada modelo:
 - [**CUGEFRE ST-6691 Plus**](./cugefre-st-6691-plus/index.md) - 22,000 Pa + 4 em 1
 - [**SERVOMASTER SM01**](./servomaster-sm01/index.md) - 9,000 Pa + HEPA
 - [**NVKHG 18,000 Pa**](./nvkhg-18000pa/index.md) - 18,000 Pa + 4 em 1
+- [**Amazon Basics 700W**](./amazon-basics-700w/index.md) - 700W + HEPA 12 + Ciclônico
+- [**LG VC5506NHTB**](./lg-vc5506nhtb/index.md) - 650W + Elipse Ciclônico + Tubo Telescópico
+- [**Philips PowerPro Compact**](./philips-powerpro-compact/index.md) - 650W + PowerCyclone 5 + TriActive
+- [**Rowenta Compact Power XXL**](./rowenta-compact-power-xxl/index.md) - 900W + 2.5L + Ciclônica 3 níveis
 
 ---
 
-**Última atualização**: Janeiro 2025
+**Última atualização**: Setembro 2025
 
 *Este guia é atualizado regularmente com os melhores produtos do mercado.*

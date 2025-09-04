@@ -121,6 +121,6 @@ Para dúvidas ou sugestões:
 
 ---
 
-**Última atualização**: Janeiro 2025
+**Última atualização**: Setembro 2025
 
 *Este guia é atualizado regularmente com os melhores produtos do mercado.*

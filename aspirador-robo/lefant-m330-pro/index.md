@@ -1,8 +1,8 @@
 ---
 layout: default
-title: LEFANT M330 Pro - Review Completa 2025 | dToF + 5000Pa + 150min + Ultra Fino
-description: Análise do robot aspirador LEFANT M330 Pro: navegação dToF, 5000Pa sucção, 150min bateria, 9.5cm altura. Vale a pena para limpeza automática?
-keywords: lefant m330 pro, robot aspirador, dtof, 5000pa, 150min, ultra fino, navegação, mapeamento
+title: "LEFANT M330 Pro - Review Completa 2025 | dToF + 5000Pa + 150min + Ultra Fino"
+description: "Análise do robot aspirador LEFANT M330 Pro: navegação dToF, 5000Pa sucção, 150min bateria, 9.5cm altura. Vale a pena para limpeza automática?"
+keywords: "lefant m330 pro, robot aspirador, dtof, 5000pa, 150min, ultra fino, navegação, mapeamento"
 ---
 
 # LEFANT M330 Pro - Review Completa 2025 🤖⚡

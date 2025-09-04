@@ -1,8 +1,8 @@
 ---
 layout: default
-title: LEFANT M310 - Review Completa 2025 | 4500Pa + 180min
-description: Análise do robot aspirador LEFANT M310: 4500Pa sucção, 180min bateria, PSD 180°, 8cm altura. Vale a pena para limpeza automática?
-keywords: lefant m310, robot aspirador, 4500pa, 180min, psd, 8cm, super fino, navegação, mapeamento
+title: "LEFANT M310 - Review Completa 2025 | 4500Pa + 180min + PSD + 8cm Super Fino"
+description: "Análise do robot aspirador LEFANT M310: 4500Pa sucção, 180min bateria, PSD 180°, 8cm altura. Vale a pena para limpeza automática?"
+keywords: "lefant m310, robot aspirador, 4500pa, 180min, psd, 8cm, super fino, navegação, mapeamento"
 ---
 
 # LEFANT M310 - Review Completa 2025 🤖⚡

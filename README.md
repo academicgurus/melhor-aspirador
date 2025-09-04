@@ -15,7 +15,7 @@ O que começou como uma busca pessoal se transformou em uma obsessão saudável!
 ### Por Que Criamos Este Guia?
 
 - **Frustração com reviews superficiais** - A maioria dos reviews não testa os produtos por tempo suficiente
-- **Falta de informações em português** - Queríamos conteúdo detalhado para o mercado brasileiro
+- **Falta de informações em português** - Queríamos conteúdo detalhado para o mercado português
 - **Preços desatualizados** - Muitos sites mostram preços antigos ou irreais
 - **Comparações injustas** - Cada tipo de aspirador tem seu propósito específico
 
